@@ -1,6 +1,7 @@
 # RevLogica
 Exercicios de java script 25/03
-1) Faça um algoritmo que:
+### 1) Faça um algoritmo que:
+
 a) Leia o nome;
 b) Leia o sobrenome;
 c) Concatene o nome com o sobrenome;
