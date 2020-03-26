@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      dia = 25;
+      mes = 3;
+      ano = 2019;
+      trinta = 30;
+
+      for (let k = mes; k <= 12; k++) {
+        for (i = dia; i <= trinta; i++) {
+          document.write(i + "/" + k + "<br>");
+        }
+        if (i == 30) {
+          dia = 1;
+          trinta = 31;
+        }
+        if (i == 31) {
+          dia = 1;
+          trinta = 30;
+        }
+      }
+
+      dia = 1;
+    </script>
+  </body>
+</html>
