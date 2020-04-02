@@ -49,13 +49,19 @@ calcule e apresente o valor do volume de uma lata de óleo, utilizando a fórmul
 calcule a quantidade de litros de combustível gasta em uma viagem, utilizando um automóvel que faz 12Km por litro. Para obter o cálculo, o usuário deve fornecer o tempo gasto na viagem e a velocidade média durante ela.Desta forma, será possível obter a distância percorrida com a fórmula DISTANCIA = TEMPO * VELOCIDADE. Tendo o valor da distância, basta calcular a quantidade de litros de combustível utilizada na viagem com a fórmula: LITROS_USADOS = DISTANCIA / 12. O programa deve apresentar os valores da velocidade média, tempo gasto na viagem, a distância percorrida e a quantidade de litros utilizada na viagem.
 
 
-### 6) Considere a seguinte situação: descontam-se inicialmente 10% do salário bruto do trabalhador como contribuição à previdência social. Após esse desconto, há um outro desconto de 5% sobre o valor restante do salário bruto, a título de um determinado imposto. Faça um algoritmo que leia o salário bruto de um cidadão e imprima o seu salário líquido.
+### 6) Considere a seguinte situação: 
+
+descontam-se inicialmente 10% do salário bruto do trabalhador como contribuição à previdência social. Após esse desconto, há um outro desconto de 5% sobre o valor restante do salário bruto, a título de um determinado imposto. Faça um algoritmo que leia o salário bruto de um cidadão e imprima o seu salário líquido.
 
 
-### 7) Escreva um algoritmo que determine o número de dias que uma pessoa já viveu. Considere que um mês tenha 30 dias.
+### 7) Escreva um algoritmo que:
+
+determine o número de dias que uma pessoa já viveu. Considere que um mês tenha 30 dias.
 
 
-### 8) Implemente um algoritmo que mostre seu nome na tela 552 vezes.
+### 8) Implemente um algoritmo que:
+
+mostre seu nome na tela 552 vezes.
 
 
 ### 9) Um hotel com 30 quartos cobra R$ 50,00 por diária e mais uma taxa de serviços. A taxa de serviços é de:
